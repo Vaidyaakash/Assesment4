@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+h2{
+    font-style: italic;
+    color: red;
+}
+ol{
+    color: rgb(173, 40, 0);
+}
+.ak{
+    text-decoration: line-through;
+}
+.sh{
+    background-color: rgb(253, 253, 95);
+    font-weight: bold;
+}
+.apv{
+    letter-spacing: 3px;
+    color: rgb(121, 29, 29);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Redressed', cursive;
+    font-family: 'Roboto Slab', serif;
+}
+p{
+    color: rgb(180, 85, 17);
+    font-weight:bold;
+}
+.pr{
+    font-style: italic;
+    color: red;
+    background-color:rgb(255, 255, 111) ;
+    font-weight: bold;
+}
